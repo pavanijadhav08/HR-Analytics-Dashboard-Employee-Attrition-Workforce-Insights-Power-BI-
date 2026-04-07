@@ -38,7 +38,7 @@
 
   
 ## Process
-- 1. Data Collection
+1. Data Collection
  - HR dataset including:
   - Employee demographics
   - Salary details
@@ -47,7 +47,7 @@
   - Years of experience
   - Attrition status
     
-- 2. Data Cleaning & Transformation
+2. Data Cleaning & Transformation
  - Handled missing and inconsistent values
  - Created calculated columns for:
    - Age groups
@@ -55,12 +55,12 @@
    - Experience categories
  - Used DAX to build KPIs and measures
    
-- 3. Data Modeling
+ 3. Data Modeling
  - Built relationships between HR attributes
  - Optimized data structure for faster reporting
  - Enabled filtering by department and job roles
    
-- 4. Dashboard Development
+ 4. Dashboard Development
  - Designed an interactive dashboard with:
   - KPI cards (Employees, Salary, Age, Experience)
  - Attrition analysis by:
@@ -70,7 +70,7 @@
   - Education
  - Department-level filters (HR, R&D, Sales)
    
-- 5.  Visualization Design
+ 5.  Visualization Design
  - Donut chart → Attrition by Education
  - Bar charts → Attrition by Age, Salary, Job Role
  - Line chart → Attrition trend by years
